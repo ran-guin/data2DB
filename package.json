@@ -10,7 +10,7 @@
     "bar-plot-d3": "^1.*",
     "core-js": "^3.6.5",
     "d3-data-parser": "^1.*",
-    "d3-data-prep": "^1.0.2",
+    "d3-data-prep": "^1.*",
     "pie-chart-d3": "^1.*",
     "scatter-plot-d3": "^1.*",
     "svg-d3": "^1.*",
